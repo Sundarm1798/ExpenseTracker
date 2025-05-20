@@ -9,4 +9,4 @@ This Java-based CLI Expense Tracker allows users to:
 
 ## 📦 How to Run
 
-1. Clone the repo:
+1. Clone the repo:  https://github.com/Sundarm1798/ExpenseTracker
